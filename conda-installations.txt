@@ -1,0 +1,7 @@
+// Essential
+conda install -c pyviz holoviews bokeh
+
+// IF you want run a jupiter notebook inside SLIIT-2021-064 conda env, execute following
+conda activate SLIIT-2021-064
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=SLIIT-2021-064

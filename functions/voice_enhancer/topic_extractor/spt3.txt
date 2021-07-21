@@ -1,0 +1,30 @@
+Hello. Good afternoon. Okay. Can you hear me? Okay. Thanks. Okay. A few more to join, but I think Let's start. They will join later.
+I think we have done a few a few analytics related topics in previous lectures.
+So we need Association related things, then classification some algorithms and then cluster in one of the algorithm.
+So basic things related to analytics we have done.
+But when we look at life cycle of analytics related projects, so we want to do the date of preprocessing area.
+So therefore, I thought of talking about some technique related to data preprocessing in this lecture.
+Let's see some of the techniques we use data preprocessing. So before we use use our data with modules.
+So we want to do some for the processing and prepare our data sets to fit into data models.
+So some of the things we can discuss with decision.
+All right. So this is some overview to data preprocessing.
+Mainly we are talking about data quality and the main task we doing data Privacy.
+So under the text, I will mainly focus on data cleaning and data. Yeah, mainly data cleaning.
+So in addition to that, data integration, data reduction, data transformation and discretization.
+So that's also we want to discuss. So mainly we will discuss data cleaning and data transformation and data repetition.
+So other two things, data reduction and integration, also in the slide state.
+But the main focus is other two topics. All right. One question. Do we need to upload the assignment to the.
+So I will discuss it later. So it's not assignment to complete the assignment.
+You have time, but I'm not asking you to complete it, but I need to let the group meters and so on for that.
+Actually, that will has given not to submitted assignment. Answer. Okay.
+I will have to do to spend some time on the lecture so we can move into the assignment related things and we can discuss.
+And after that, I will give you some time to work on assignment today because since not on campus classrooms and then you don't meet physically.
+So then I want to do some time from the lecture time. So then you can get together and discuss about assignment.
+After complete the lecture, I will assign time for that. Okay.
+So first before I discuss the main topic, if I explain you very briefly, this KDD process or knowledge discovery database, this process.
+So then you can see data preprocessing fit in to where it. So we collect data from different data sources.
+And then after that, we are creating a data set for our targeted problem.
+And after that, that data set we want to further process to us in our modules.
+So the data preprocess income there, then under data preprocessing, actually transformation also there.
+And this transform data we use for machine learning data mining models.
+And after that, we want to derive patterns or new knowledge from that.

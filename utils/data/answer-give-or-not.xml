@@ -1,0 +1,29 @@
+<Session>
+	<Posts>
+		<Post class="NoAnswer">Not clear</Post>
+		<Post class="NoAnswer">Sorry Student, I dont have idea of it and I will check and explain in next week.</Post>
+		<Post class="NoAnswer">I did not get it.</Post>
+		<Post class="NoAnswer">Sorry student.</Post>
+		<Post class="NoAnswer">It is out of the syllabus of this module and it will be discussed in Machine Learning lecture.</Post>
+		<Post class="NoAnswer">It is out of syllabus.</Post>
+		<Post class="NoAnswer">It is not clear</Post>
+		<Post class="NoAnswer">I did not get it</Post>
+		<Post class="NoAnswer">Could you explain a little bit</Post>
+		<Post class="NoAnswer">I did not get it.</Post>
+		<Post class="NoAnswer">Sorry</Post>
+		<Post class="NoAnswer">Sorry. I have no idea</Post>
+		<Post class="NoAnswer">I will check and let you know</Post>
+		<Post class="NoAnswer">I will check and let you know.</Post>
+		<Post class="NoAnswer">It is out of the syllabus of this module and it will be discussed in machine learning lecture.</Post>
+		<Post class="NoAnswer">Sorry students, I don't have idea of it and I will check and explain it next week.</Post>
+		<Post class="NoAnswer">Sorry, it is not related to our field.</Post>
+
+		<Post class="HasAnswer">The answer is</Post>
+		<Post class="HasAnswer">Yes. It is</Post>
+		<Post class="HasAnswer">platform as a service is a cloud computing model where a third party provider delivers hardware and software tools to users over the Internet, and these tools are needed for application development.</Post>
+		<Post class="HasAnswer">Software as a service is a software distribution model in which a cloud provider hosts applications and makes them available to end users over the Internet, and an independent software vendor may contract a third party cloud provider to host the application.</Post>
+		<Post class="HasAnswer">infrastructure as a service is a form of cloud computing that delivers fundamental, compute, network and storage resources to consumers on demand over the internet. On a pay as you go basis.</Post>
+		<Post class="HasAnswer">There are several reputed companies such as instagram, Pinterest, netflix, Dropbox, etc. Super Cell</Post>
+
+	</Posts>
+</Session>
